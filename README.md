@@ -1,7 +1,7 @@
 # funnylink
 Makes entry to real time
 <p align="center">
-    <img src="https://github.com/muno9748/https://github.com/entry0917/funnylink/blob/master/LOGO.png" alt="LE_LOGO">
+    <img src="https://github.com/entry0917/funnylink/blob/master/LOGO.png" alt="LE_LOGO">
 </p>
 <h1 align="center">LiveEntry / 라이브엔트리</h1>
 
